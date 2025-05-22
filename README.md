@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67581d2becc889bb0db0abac?variant=dark&roadmaps=python%2Cdatastructures-and-algorithms" alt="roadmap.sh"/></a>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67581d2becc889bb0db0abac?variant=dark" alt="roadmap.sh"/></a>
