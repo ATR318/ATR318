@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ATR318">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hi%2C+I'm+<YOUR_NAME>+%F0%9F%91%8B;This+profile+is+having+a+glow-up...;New+projects%2C+clean+docs%2C+and+slick+UX+incoming!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hi%2C+I'm+Tarun+A+%F0%9F%91%8B;This+profile+is+having+a+glow-up...;New+projects%2C+clean+docs%2C+and+slick+UX+incoming!" alt="Typing SVG" />
   </a>
 </p>
 
